@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio_indiv_1_M_5</string>
+    <string name="input_web">Ejemplo: www.google.com</string>
+    <string name="btn_view">Ver Web</string>
+    <string name="concat_url">https://</string>
+    <string name="btn_volver">Volver</string>
+    <string name="btn_cerrar">Cerrar App</string>
+    <string name="txt_title">Ingresa tu pagina web</string>
+
+</resources>
